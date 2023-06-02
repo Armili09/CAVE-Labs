@@ -6,3 +6,5 @@ Step 2: Install XR Interaction Toolkit Package
 Step 3: OpenXR PlugIn Package
 Step 4: Go to Asset Store and Download SteamVR PlugIn
 Step 5: When you go to Project Settings -> PlugIn Management -> Plug-In Providers -> OpenXR and OpenVR Loader will be checked.
+
+In case of any error, follow a tutorial. Example Tutorial: https://www.youtube.com/watch?v=hMkfsiX2JiU&t=357s
